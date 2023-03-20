@@ -51,12 +51,12 @@
   },
   "homepage": "https://github.com/salesforce-ux/theo",
   "dependencies": {
+    "@budibase/handlebars-helpers": "^0.11.8",
     "core.lambda": "1.0.0",
     "data.either": "1.5.2",
     "fs-extra": "9.0.0",
     "glob": "7.1.6",
     "handlebars": "^4.7.2",
-    "handlebars-helpers": "0.10.0",
     "immutable": "3.8.2",
     "immutable-ext": "1.1.5",
     "js-yaml": "3.13.1",

@@ -22,6 +22,6 @@ $token-a: red;
 `;
 
 exports[`should write the result to --dest 1`] = `
-"✏️  scss tokens created at \\".tmp/tokens.scss\\"
+"✏️  scss tokens created at \\".tmp\\\\tokens.scss\\"
 "
 `;
