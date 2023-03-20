@@ -1,5 +1,5 @@
 {
-  "name": "theo",
+  "name": "@robsonn/theo",
   "version": "8.1.5",
   "license": "BSD-3-Clause",
   "description": "Design Tokens formatter",
